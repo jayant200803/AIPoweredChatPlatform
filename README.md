@@ -1,6 +1,6 @@
 # AIPoweredChatPlatform (MERN Stack)
-This is an AI-Powered Chat Platform built using the MERN stack (MongoDB, Express.js, React.js, Node.js).
-It provides an interactive conversational interface similar to ChatGPT, enabling real-time chat with an AI model using the OpenAI API.
+1. This is an AI-Powered Chat Platform built using the MERN stack (MongoDB, Express.js, React.js, Node.js).
+2. It provides an interactive conversational interface similar to ChatGPT, enabling real-time chat with an AI model using the OpenAI API.
 
 # Features 🚀
 💬 AI Conversations – Engage in intelligent, context-aware chat powered by OpenAI’s GPT model.

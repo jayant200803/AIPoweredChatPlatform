@@ -2,7 +2,7 @@ import { GoogleGenAI } from "@google/genai";
 
 // Hardcoded key you pasted earlier
 const ai = new GoogleGenAI({
-  apiKey: "AIzaSyBb5kCp6sZieOoIfhCg_Hvs6IQ88M_6Omc", 
+  apiKey:process.env.GEMINI_KEY, 
 });
 
 const getOpenAIAPIResponse = async (message) => {

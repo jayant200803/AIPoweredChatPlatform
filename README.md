@@ -2,7 +2,7 @@
 This is an AI-Powered Chat Platform built using the MERN stack (MongoDB, Express.js, React.js, Node.js).
 It provides an interactive conversational interface similar to ChatGPT, enabling real-time chat with an AI model using the OpenAI API.
 
-#Features 🚀
+# Features 🚀
 💬 AI Conversations – Engage in intelligent, context-aware chat powered by OpenAI’s GPT model.
 
 🧠 Context Preservation – Maintains previous messages to allow smooth, multi-turn conversations.
@@ -15,7 +15,7 @@ It provides an interactive conversational interface similar to ChatGPT, enabling
 
 🎨 Modern UI/UX – Built using React.js and Tailwind CSS for a responsive, minimal design.
 
-#Tech Stack 🛠️
+# Tech Stack 🛠️
 Frontend: React.js, Tailwind CSS
 
 Backend: Node.js, Express.js
@@ -28,8 +28,7 @@ AI Integration: OpenAI API
 
 🚀 Full-Stack Integration – Smooth flow between frontend and backend using RESTful endpoints.
 
-#THIS IS HOW THE PROJECT LOOKS AFTER RUNNING:
-
+# This is Basic overlook of the project : 
 1. Display of the Website
    <img width="1909" height="1008" alt="Screenshot 2025-10-07 190920" src="https://github.com/user-attachments/assets/3e797ef6-72d9-4030-8427-e97c68c0d218" />
 2. Basic Conversation
